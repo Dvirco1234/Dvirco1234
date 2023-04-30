@@ -27,8 +27,8 @@ Currently, I work as a frontend developer at MisterBit and as a coding instructo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <!-- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" /> -->
@@ -46,10 +46,9 @@ Currently, I work as a frontend developer at MisterBit and as a coding instructo
  
  <h2>💬 Social life is important right? :cowboy_hat_face:</h2>
  
- [![Linkedin Badge](https://img.shields.io/badge/-or21321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/or21321/)](https://www.linkedin.com/in/or21321/)
-[![Gmail Badge](https://img.shields.io/badge/-ormoglob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ormoglob@gmail.com)](mailto:ormoglob@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@or21321-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/or21321)](https://instagram.com/or21321)
-[![Facebook Badge](https://img.shields.io/badge/-Or_Hadar-yellow?style=flat-square&labelColor=yellow&logo=facebook&logoColor=white&link=https://facebook.com/or.hadar.14)](https://facebook.com/or.hadar.14)
+ [![Linkedin Badge](https://img.shields.io/badge/-or21321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dvirco123/)](https://www.linkedin.com/in/dvirco123/)
+[![Gmail Badge](https://img.shields.io/badge/-ormoglob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dvirco123@gmail.com)](mailto:dvirco123@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Or_Hadar-yellow?style=flat-square&labelColor=yellow&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100000144452111)](https://www.facebook.com/profile.php?id=100000144452111)
 
 
 <!--
