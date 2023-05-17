@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dvir!</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Israel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvirco1234" alt="dvirco1234" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvirco1234" alt="dvirco1234" /></a> </p>
 
 - 🔭 I’m currently working on [Armadillex](https://www.armadillex.com/)
 
